@@ -1,0 +1,20 @@
+{
+  "name": "js_web_back",
+  "version": "1.0.0",
+  "description": "Web back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/PortalFennec/js_web_back.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}

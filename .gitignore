@@ -1,0 +1,3 @@
+node_modules
+public
+@babel/plugin-proposal-private-property-in-object
